@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+/* 1. Target the element with BOTH avatar AND proportioned */
+.avatar.proportioned {
+    width: 300px;
+    height: auto; /* This keeps it a perfect square automatically */
+}
+
+/* 2. Target the element with BOTH avatar AND distorted */
+.avatar.distorted {
+    width: 200px;
+    height: 400px; /* Twice as big as the width, making it look squished */
+}/* Add CSS Styling */

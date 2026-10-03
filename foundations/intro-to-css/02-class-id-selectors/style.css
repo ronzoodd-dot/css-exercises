@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/* 1. Target all odd numbered elements using the dot (.) for classes */
+.odd-elements {
+  background-color: #ffcccc; /* Light red/pink HEX */
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* 2. Target the second element using the hashtag (#) for IDs */
+#second-element {
+  color: #0000ff; /* Blue HEX */
+  font-size: 36px;
+}
+
+/* 3. Target just the extra style for the cooler third element */
+.cool-font {
+  font-size: 24px;
+}
+
+/* 4. Target the fourth element using its unique ID */
+#fourth-element {
+  background-color: #ccffcc; /* Light green HEX */
+  font-size: 24px;
+  font-weight: bold;
+}/* Add CSS Styling */

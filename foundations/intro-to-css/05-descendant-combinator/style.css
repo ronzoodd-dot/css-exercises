@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+div p {
+    background-color: #ffff00; /* Yellow background */
+    color: #ff0000;            /* Red text */
+    font-size: 20px;
+    text-align: center;        /* Center aligned */
+}/* Add CSS Styling */
